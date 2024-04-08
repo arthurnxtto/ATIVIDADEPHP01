@@ -1,5 +1,7 @@
 <?php 
 
+// DUPLA Arthur Netto & Jonathan Alves
+
 $valor =33;
 
 if ($valor % 10 == 0 && $valor % 5 == 0 && $valor % 2 == 0) {
