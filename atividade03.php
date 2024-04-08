@@ -1,4 +1,7 @@
 <?php 
+
+// DUPLA Arthur Netto & Jonathan Alves
+
 	$nome = "Artura";
 	$sexo = "M";
 	$idade = 20;
