@@ -1,5 +1,7 @@
 <?php 
 
+// DUPLA Arthur Netto & Jonathan Alves
+
 	$idade1 = 18;
 	$idade2 = 14;
 	$idade3 = 17;
