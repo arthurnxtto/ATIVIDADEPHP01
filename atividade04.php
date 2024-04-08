@@ -1,5 +1,7 @@
 <?php 
-	
+
+// DUPLA Arthur Netto & Jonathan Alves
+
 	$num1 = 20;
 	$num2 = 30;
 	$num3 = 40;
